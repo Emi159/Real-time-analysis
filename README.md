@@ -1,0 +1,1 @@
+This project aims to leverage real-time datasets to monitor which trading countries and ports made the most back corrections, as well as the magnitude and direction of these adjustments in real time. The project utilizes a variety of technologies and tools, including Azure Data Lake, Databricks, Python, SQL and Power BI, to efficiently process, analyze, and visualize the data.
